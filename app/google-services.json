@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "442152319557",
+    "project_id": "auth-fd99c",
+    "storage_bucket": "auth-fd99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442152319557:android:b96e67900470a584a8c12c",
+        "android_client_info": {
+          "package_name": "com.example.epon_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442152319557-vko8j320cfu1g97gutva4ih7s2ovea7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQ9kRL5P6obuFnwJiKfiH-Gbpd3grObQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442152319557-vko8j320cfu1g97gutva4ih7s2ovea7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
